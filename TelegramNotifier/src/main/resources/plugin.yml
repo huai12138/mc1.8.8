@@ -1,0 +1,5 @@
+name: TelegramNotifier
+main: me.telegramnotifier.TelegramNotifier
+version: 1.0
+api-version: 1.8
+description: Send Telegram messages when specific players join
